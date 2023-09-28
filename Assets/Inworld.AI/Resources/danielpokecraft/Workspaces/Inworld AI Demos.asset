@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 679553faa086cdc48a58556300e27230, type: 3}
+  m_Name: Inworld AI Demos
+  m_EditorClassIdentifier: 
+  title: Inworld AI Demos
+  fullName: workspaces/default-gtnx0pi5koopjuycje10dq
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 99762167e6ca1cc42b0fa60a219f7d2f, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: f4fe904c38221784e8ae4fd1226fb424, type: 2}
+  - {fileID: 0}
+  scenes:
+  - {fileID: 11400000, guid: 7c2b20d77d992d0448f639b40c26ef1c, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 429731cb4d7c3dd4cb794bd942b77d4d, type: 2}
+  - {fileID: 0}
+  integrations:
+  - {fileID: 11400000, guid: 806bdf78b35a416479872359a7b14a79, type: 2}
+  index: 0
